@@ -1,4 +1,4 @@
-import math
+__author__ = 'Andres Julian'
 import easygui as eg
 import tkinter as tk
 from tkinter import *
@@ -116,4 +116,5 @@ def main():
 
 
 if __name__ == '__main__':
+    print("Creado por", __author__)
     main()
